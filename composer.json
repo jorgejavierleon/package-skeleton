@@ -1,12 +1,12 @@
 {
-    "name": "Coderhub/Prueba",
+    "name": "jorgejavierleon/package-skeleton",
     "type": "library",
     "description": ":package_description",
     "keywords": [
         "Coderhub",
         "Prueba"
     ],
-    "homepage": "https://github.com/Coderhub/Prueba",
+    "homepage": "https://github.com/jorgejavierleon/package-skeleton",
     "license": "MIT",
     "authors": [
         {
